@@ -5,6 +5,6 @@
 - 📫 My email is h.mohammadi7394@gmail.com
 
 <!---
-joojoo137/joojoo137 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Honestly im a guy who has been in love wtih CODE since i was a child but duo to life situations i never got to learn...now im 27 and i finally
+managed to pursue my dreams, i have alrdy learned HTML/CSS and currently learning python and working as an intern in PHP programming for a company.
 --->
